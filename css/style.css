@@ -1,6 +1,9 @@
 body{
     background-color: #fff;
     text-align: center;
+    margin: 150px auto;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 .icon1{
     border-radius: 50%;
