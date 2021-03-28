@@ -1,6 +1,37 @@
-main{
+body{
+    background-color: #fff;
     text-align: center;
 }
-table{
-    margin: 75px auto;
+.icon1{
+    border-radius: 50%;
+    background-color:#2a69a6;
+    background-image: url(../img/white_phone.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.icon2{
+    border-radius: 50%;
+    background-color:#2a69a6;
+    background-image: url(../img/white_settings.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}  
+.icon3{
+    border-radius: 50%;
+    background-color:#2a69a6;
+    background-image: url(../img/speed_white.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.icon1:hover{
+    background-color: white;
+  background-image: url(../img/Tablet_blue.png);
+}
+.icon2:hover{
+    background-color: white;
+  background-image: url(../img/settings_blue.png);
+}
+.icon3:hover{
+    background-color: white;
+  background-image: url(../img/speed_blue.png);
 }
